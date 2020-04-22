@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "zh-cn"
+title = "重读 CS"
+
+[params]
+BookToC = true
+BookSection = 'posts'
+BookMenuBundle = '/menu'
