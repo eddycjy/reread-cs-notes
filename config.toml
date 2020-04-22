@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "zh-cn"
 title = "重读 CS"
+theme = "book"
 
 [params]
 BookToC = true
